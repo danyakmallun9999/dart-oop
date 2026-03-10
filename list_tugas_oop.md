@@ -4,7 +4,7 @@ List tugas saya dari fork dart-oop pak khanif
 
 ## 1. Challenge: Class & Object
 
-- [ ] **Tugas Rumah:**
+- [x] **Tugas Rumah:**
   - Buatlah class `Rumah` dengan properti `nama`, `alamat`, dan `jumlahKamar`.
   - Buatlah method `display()` untuk mencetak nilai dari ketiga properti tersebut.
   - Buatlah Object dari class `Rumah`, atur nilainya, dan panggil method `display()`.
